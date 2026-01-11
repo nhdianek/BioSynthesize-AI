@@ -1,0 +1,5 @@
+{
+  "name": "BioSynthesize AI",
+  "description": "A high-performance research agent for life sciences that conducts literature dives and database searches to validate hypotheses using PubMed, GEO, SRA, and CellxGene data.",
+  "requestFramePermissions": []
+}
